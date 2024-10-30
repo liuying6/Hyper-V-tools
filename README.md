@@ -9,10 +9,12 @@ If users do not turn off virtualization based security or Hyper-V, they will not
 3.This script does not provide multilingual options, please use the Chinese version
 
 ## Get Help
-(Must read for overseas users) This project only accepts Chinese issues. If you don't understand Chinese, please use translation tools 本项目只接受中文的issue。如果您不懂简体中文，请使用翻译工具
+(Must read for overseas users) This project only accepts Chinese issues. If you don't understand Chinese, please use translation tools 
+本项目只接受中文的issue。如果您不懂简体中文，请使用翻译工具
 
 ##Translation Contributing
-You can fork this project or submit lssues for translation.  您可以fork此项目或提交lssues来添加翻译。
+You can fork this project or submit lssues for translation.  
+您可以fork此项目或提交lssues来添加翻译。
 
 
 ## Supported Windows Versions
