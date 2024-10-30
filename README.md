@@ -1,4 +1,6 @@
 # Introduction
+<h2>This project currently only provides a Chinese version<br></h2>
+<h2>本项目目前只提供中文版本<br></h2>
 Assist users in disabling Hyper-V and VBS, supported system version being Windows 10-11 24H2(Build 26120.2200) <br>
 If users do not turn off virtualization based security or Hyper-V, they will not be able to use Android emulators or virtual machine software (such as VMware)
 
