@@ -17,5 +17,8 @@ You can fork this project or submit lssues for translation.  <br>
 您可以fork此项目或提交lssues来添加翻译。
 
 
-## Supported Windows Versions
-Windows10-11 24H2,up to Build 26120.2200
+## Supported  Versions
+Windows 10(1909)-11(24H2),up to 26120.2200
+
+## Download 
+please go to <a href="https://github.com/liuying6/Hyper-V-tools/releases">Releases page</a>
